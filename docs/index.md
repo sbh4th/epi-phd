@@ -1,0 +1,21 @@
+--- 
+title: "![](mcgill-epi-logo.png){width=300px}"
+author: "Sam Harper"
+date: "2021-06-01"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+documentclass: book
+bibliography: book.bib
+biblio-style: apalike
+link-citations: yes
+github-repo: sbh4th/epi-phd
+url: http\://https://github.com/sbh4th/epi-phd
+description: McGill Epidemiology PhD student handbook.
+site: bookdown::bookdown_site
+---
+
+# Preface {-}
+
+Note that this handbook is specific to the Epidemiology program and does not replace McGill's Graduate and Postdoctoral Studies (GPS) [Calendar](https://www.mcgill.ca/students/courses/calendars/) or [Policies and Procedures](https://www.mcgill.ca/gps/students/policies-and-guidelines). You are responsible for reading and understanding the official GPS procedures, rules and regulations. Please contact the Epidemiology Graduate Program Director (GPD) or Student Services Office to answer any questions.
