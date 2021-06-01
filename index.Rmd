@@ -11,7 +11,7 @@ bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
 github-repo: sbh4th/epi-phd
-url: http\://https://github.com/sbh4th/epi-phd
+url: http\://https://sbh4th.github.io/epi-phd
 description: McGill Epidemiology PhD student handbook.
 site: bookdown::bookdown_site
 ---
