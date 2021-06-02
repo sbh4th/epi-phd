@@ -7,7 +7,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">McGill Epidemiology PhD Handbook</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">2021-2022 Academic Year</a></li>
+        <li><a href="https://www.mcgill.ca/epi-biostat-occh/academic-programs/grad/epidemiology" target="blank">2021-2022 Academic Year</a></li>
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

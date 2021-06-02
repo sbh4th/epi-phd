@@ -1,7 +1,7 @@
 --- 
 title: "![](mcgill-epi-logo.png){width=300px}"
 author: "Sam Harper"
-date: "2021-06-01"
+date: "2021-06-02"
 output:
   pdf_document: default
   html_document:
@@ -12,7 +12,7 @@ biblio-style: apalike
 link-citations: yes
 github-repo: sbh4th/epi-phd
 url: http\://https://sbh4th.github.io/epi-phd
-description: McGill Epidemiology PhD student handbook.
+description: McGill Epidemiology PhD student handbook
 site: bookdown::bookdown_site
 ---
 

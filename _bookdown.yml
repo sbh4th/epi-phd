@@ -1,6 +1,6 @@
-book_filename: "bookdown-start"
+book_filename: "epi-phd-handbook"
 chapter_name: " "
-repo: https://github.com/seankross/bookdown-start
+repo: https://github.com/sbh4th/epi-phd
 output_dir: docs
 rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Admissions.Rmd", 
   "03-Program-Requirements.Rmd", "04-Milestones.Rmd"]
