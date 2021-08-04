@@ -1,7 +1,7 @@
 --- 
 title: "![](mcgill-epi-logo.png){width=300px}"
-author: "Sam Harper"
-date: "2021-06-02"
+author: "PhD Program Leadership"
+date: "2021-08-03"
 output:
   pdf_document: default
   html_document:

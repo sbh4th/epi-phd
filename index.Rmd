@@ -1,6 +1,6 @@
 --- 
 title: "![](mcgill-epi-logo.png){width=300px}"
-author: "Sam Harper"
+author: "PhD Program Leadership"
 date: "`r Sys.Date()`"
 output:
   pdf_document: default
