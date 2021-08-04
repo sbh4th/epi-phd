@@ -329,3 +329,6 @@ The timing and choices to fulfill the course requirements will likely be unique 
 - Year 2
   - Fall: EPIB 702 PhD proposal; EPIB 707 Research Design; BIOS elective (e.g., Advanced Generalized Linear Models, Causal Inference)
   - Winter: EPIB 702 PhD proposal; EPIB or substantive electives (e.g. Pharmacoepidemiology, Impact Evaluation,  Knowledge Synthesis)
+  
+- Year 3
+  - Fall: 

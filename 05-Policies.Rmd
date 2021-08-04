@@ -6,8 +6,7 @@
 
 ## Fast-Track from MSc to PhD
 
-The transfer policy applies ONLY to students in Epidemiology and Biostatistics programs.
-A student who has been accepted into the M.Sc. program can request transfer into the Ph.D. program. The formal transfer into the Ph.D. program should occur within 12 months of initial enrollment in the Master's program.
+The transfer policy applies ONLY to students in Epidemiology and Biostatistics programs. A student who has been accepted into the M.Sc. program can request transfer into the Ph.D. program. The formal transfer into the Ph.D. program should occur within 12 months of initial enrollment in the Master's program.
 
 In order to transfer from the M.Sc. to the Ph.D. program, the M.Sc. student must complete all required courses for the M.Sc. program with a minimum GPA of 3.7.
 
@@ -27,29 +26,6 @@ A timeline for completion of the Ph.D. program
 Letters of support from the current M.Sc. supervisor(s) and proposed Ph.D. supervisor(s). In cases where this is the same person, one additional letter from a faculty member in the Department is required. The letter from the proposed Ph.D. supervisor(s) must include a statement of financial support for the candidate and research.
 The transfer application material must be submitted by April 25 to gradadmin.eboh@mcgill.ca.
 
-## Directed Reading Courses
-
-**Directed Reading courses complement offerings in the department or elsewhere at McGill or other universities. They are NOT substitutes for existing courses but are, rather, ways for students in the programs to enrich their education in an organized way on topics not otherwise covered or not covered sufficiently (in depth or breadth) in existing courses.** 
-
-Students enrolled in the department may take Directed Reading courses for credit towards a degree under the rubric of the Special Topics offerings. These courses may be for 1, 2, or 3 credits. Directed Reading courses should conform to the usual semester format unless the specific circumstances of the course require flexibility. However, students are expected to complete such a course within no more than any six month period.
-
-While there is much flexibility in what constitutes such a course, certain requirements must be met before work can begin.
-
-1. Students must themselves propose a supervising faculty member with whom to work.
-
-2. With the faculty supervisor, students must prepare an adequate project proposal commensurate with the number of credits sought that includes:
-
-a. The rationale for doing this work as a Directed Reading course and for the number of credits sought. As well, this statement should indicate how it relates to, but is separate from, thesis work when the student is in a thesis program.
-
-b. An outline of the work to be done and the final product/output to be submitted. If a Reading Course is being proposed, a preliminary bibliography and a planned reading schedule should be included.
-
-c. A timetable, with appropriate milestones to assess a student’s progress and the measures to be used to evaluate the work (e.g., number of written assignments and their length). A student’s faculty supervisor will be responsible for this evaluation as is the case for “regular” courses.
-
-d. A timetable indicating when the student and faculty supervisor will meet.
-
-Students will be expected to submit for approval in advance material that provides the objectives and methods to be used for the IS/DR work.
-
-3. The project proposal, signed by both the student and the supervisor, should be submitted to the Student Affairs Office a minimum of one month prior to the start of the semester in which the course will take place. The director, along with one other person on the Program Committee who has accepted responsibility for curriculum matters, will review the proposal and determine if it is to be approved. Once approved internally, a copy will be sent to the Director of Graduate Studies as well as to the Department’s Graduate Studies Office, with a request that the latter obtain a Special Topics course number for the offering. A copy of the final approved version of the course content will be placed in the student’s file.
 
 ## Policy on Departmental Seminars
 

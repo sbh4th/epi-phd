@@ -1,11 +1,19 @@
 --- 
 title: "![](mcgill-epi-logo.png){width=300px}"
 author: "PhD Program Leadership"
-date: "2021-08-03"
+date: "2021-08-04"
 output:
+  bookdown::gitbook:
+    lib_dir: assets
+    split_by: chapter
+    config:
+      toolbar:
+        position: static
+  bookdown::pdf_book:
+    keep_tex: yes
+  bookdown::html_book:
+    css: toc.css
   pdf_document: default
-  html_document:
-    df_print: paged
 documentclass: book
 bibliography: book.bib
 biblio-style: apalike
