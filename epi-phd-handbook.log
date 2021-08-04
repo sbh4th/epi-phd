@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.7.22)  4 AUG 2021 17:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.7.22)  4 AUG 2021 17:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -642,83 +642,62 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
 74.
 (/Users/samharper/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [3]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-12.
+) [3] [4] [5
+
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 361.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 361.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 361.
+[6] [7pdfTeX warning (ext4): destination with the same identifier (name{table.0
+.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.435 \end{enumerate}
+                     ]
+Underfull \hbox (badness 10000) in paragraph at lines 452--456
+
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4
+83.
 (/Users/samharper/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (90.74873pt too wide) in paragraph at lines 219--219
+Overfull \hbox (90.74873pt too wide) in paragraph at lines 490--490
 []\T1/lmtt/m/n/10 ## -- Attaching packages ------------------------------------
 --- tidyverse 1.3.1 --[] 
  []
 
 
-Overfull \hbox (90.74873pt too wide) in paragraph at lines 232--232
+Overfull \hbox (90.74873pt too wide) in paragraph at lines 503--503
 []\T1/lmtt/m/n/10 ## -- Conflicts ------------------------------------------ ti
 dyverse_conflicts() --[] 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
-244.
+515.
 (/Users/samharper/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmtt.fd
 File: ts1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [4] [5
-
-]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 310.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 310.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 310.
-
-Overfull \hbox (169.71664pt too wide) in paragraph at lines 310--405
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 49.28847pt on input line 405.
-
-[6] [7pdfTeX warning (ext4): destination with the same identifier (name{table.0
-.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.479 \end{enumerate}
-                     ]
-Underfull \hbox (badness 10000) in paragraph at lines 496--500
-
- []
-
-
-Overfull \hbox (90.74873pt too wide) in paragraph at lines 534--534
-[]\T1/lmtt/m/n/10 ## -- Attaching packages ------------------------------------
---- tidyverse 1.3.1 --[] 
- []
-
-
-Overfull \hbox (90.74873pt too wide) in paragraph at lines 547--547
-[]\T1/lmtt/m/n/10 ## -- Conflicts ------------------------------------------ ti
-dyverse_conflicts() --[] 
- []
-
-[8] [9] [10
+) [8] [9] [10
 
 ] [11]
-Overfull \hbox (169.71664pt too wide) in paragraph at lines 633--728
+Overfull \hbox (169.71664pt too wide) in paragraph at lines 589--684
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 49.28847pt on input line 728.
+LaTeX Warning: Float too large for page by 49.28847pt on input line 684.
 
 [12] [13pdfTeX warning (ext4): destination with the same identifier (name{table
 .0.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.781 \end{enumerate}
+l.737 \end{enumerate}
                      ]
-Underfull \hbox (badness 10000) in paragraph at lines 819--823
+Underfull \hbox (badness 10000) in paragraph at lines 775--779
 
  []
 
@@ -726,7 +705,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 819--823
 Underfull \vbox (badness 1472) has occurred while \output is active []
 
 [14]
-Overfull \hbox (4.43835pt too wide) in paragraph at lines 884--891
+Overfull \hbox (4.43835pt too wide) in paragraph at lines 840--847
 []\T1/lmr/m/n/10 (-20) EPIB 681 Global Health: Epid. Re-search 3 Cred-its EPIB 
 701 Ph.D.Comprehensive
  []
@@ -748,15 +727,15 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 14494 strings out of 480502
- 218147 string characters out of 5898584
- 567702 words of memory out of 5000000
- 31627 multiletter control sequences out of 15000+600000
- 470107 words of font info for 152 fonts, out of 8000000 for 9000
+ 14497 strings out of 480502
+ 218200 string characters out of 5898584
+ 572702 words of memory out of 5000000
+ 31628 multiletter control sequences out of 15000+600000
+ 470497 words of font info for 155 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 74i,9n,80p,630b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/Users/samharper/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/U
-sers/samharper/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</Users
+ 74i,10n,80p,629b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/Users/samharper/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/
+Users/samharper/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users
 /samharper/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/
 samharper/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/s
 amharper/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/sam
@@ -764,10 +743,10 @@ harper/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/samha
 rper/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/samhar
 per/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro10.pfb></Users/samharp
 er/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on epi-phd-handbook.pdf (32 pages, 523573 bytes).
+Output written on epi-phd-handbook.pdf (32 pages, 529843 bytes).
 PDF statistics:
- 376 PDF objects out of 1000 (max. 8388607)
- 321 compressed objects within 4 object streams
- 107 named destinations out of 1000 (max. 500000)
+ 372 PDF objects out of 1000 (max. 8388607)
+ 317 compressed objects within 4 object streams
+ 103 named destinations out of 1000 (max. 500000)
  37102 words of extra memory for PDF output out of 42996 (max. 10000000)
 

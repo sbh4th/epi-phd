@@ -14,12 +14,10 @@ Our program aims to prepare our students for successful careers in epidemiology.
 - Design, write, and critique an independent research proposal for answering epidemiologic questions;
 
 ## High-Level Program Overview
-Successful completion of the PhD program in EBOH involves 4 key milestones:
-- Required coursework;
-- Passing a comprehensive exam;
-- Developing and defending a thesis protocol; and
-- Writing and defending the doctoral thesis.
+Successful completion of the PhD program in EBOH involves 4 key milestones:  
+- Required coursework;  
+- Passing a comprehensive exam;  
+- Developing and defending a thesis protocol; and  
+- Writing and defending the doctoral thesis.  
 
 The timeline for program completion varies depending on each student's circumstances and subject matter, but most of our students complete the PhD in around 5 years. 
-
-- 

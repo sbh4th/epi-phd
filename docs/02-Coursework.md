@@ -1,40 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 
-```r
-library(tidyverse)
-```
-
-```
-## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
-```
-
-```
-## ✓ ggplot2 3.3.5     ✓ purrr   0.3.4
-## ✓ tibble  3.1.2     ✓ dplyr   1.0.7
-## ✓ tidyr   1.1.3     ✓ stringr 1.4.0
-## ✓ readr   1.4.0     ✓ forcats 0.5.1
-```
-
-```
-## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-## x dplyr::filter() masks stats::filter()
-## x dplyr::lag()    masks stats::lag()
-```
-
-```r
-library(readxl)
-library(kableExtra)
-```
-
-```
-## 
-## Attaching package: 'kableExtra'
-```
-
-```
-## The following object is masked from 'package:dplyr':
-## 
-##     group_rows
-```
 # Coursework
 PhD students are required to complete 25 course credits, including 16 required credits and 9 elective credits. 
 
@@ -52,9 +21,9 @@ The required coursework is typically completed during the first 4 terms and cons
 *Note that EPIB 701 and 702 are not didactic courses but are required milestones for advancing toward degree completion and require registration in the appropriate term. Students register for EPIB 702 in both Fall and Winter terms of their second year.
 
 ## Elective courses
-Students are also required to take 9 credits of elective coursework, at the 500 level or higher, with a minimum of 3 credits in Biostatistics and 6 credits in an epidemiologic and/or substantive topic (normally related to the thesis topic). Elective courses must be chosen in consultation with the student's supervisor and/or the degree program’s director or adviser.
+Students are also required to take 9 credits of elective coursework, at the 500 level or higher, with a minimum of 3 credits in Biostatistics and 6 credits in an epidemiologic and/or substantive topic (normally related to the thesis topic). Elective courses must be chosen in consultation with the student's supervisor and/or the degree program’s director or adviser. 
 
-These courses can be chosen from the Department’s current offer of more than 40 courses in EBOH as well as from other McGill Departments. To assist you in your course selections see the Ph.D. Epidemiology Electives Guidelines page. Below you can find a list of current EBOH courses commonly taken as electives. However, courses from other departments or faculties may be possible, depending on the thesis subject matter and subject to the approval of your supervisor(s) and the Program Director. 
+These courses can be chosen from the Department’s current offer of more than 40 courses in EBOH as well as from other McGill Departments. To assist you in your course selections see the Ph.D. Epidemiology Electives Guidelines page. Below in Table \@ref(tab:elect) you can find a list of current EBOH courses commonly taken as electives. However, courses from other departments or faculties may be possible, depending on the thesis subject matter and subject to the approval of your supervisor(s) and the Program Director. 
 
 <table class="table table-striped table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
 <caption>(\#tab:elect)EBOH Electives as of Fall 2021</caption>
@@ -296,25 +265,23 @@ These courses can be chosen from the Department’s current offer of more than 4
 
 ## Directed Reading Courses
 
-**Directed Reading courses complement offerings in the department or elsewhere at McGill or other universities. They are NOT substitutes for existing courses but are, rather, ways for students in the programs to enrich their education in an organized way on topics not otherwise covered or not covered sufficiently (in depth or breadth) in existing courses.** 
+*Directed Reading courses complement offerings in the department or elsewhere at McGill or other universities. They are NOT substitutes for existing courses but are, rather, ways for students in the programs to enrich their education in an organized way on topics not otherwise covered or not covered sufficiently (in depth or breadth) in existing courses.*   
 
-Students enrolled in the department may take Directed Reading courses for credit towards a degree under the rubric of the Special Topics offerings. These courses may be for 1, 2, or 3 credits. Directed Reading courses should conform to the usual semester format unless the specific circumstances of the course require flexibility. However, students are expected to complete such a course within no more than any six month period.
+Students enrolled in the department may take Directed Reading courses for credit towards a degree under the rubric of the Special Topics offerings. These courses may be for 1, 2, or 3 credits. Directed Reading courses should conform to the usual semester format unless the specific circumstances of the course require flexibility. However, students are expected to complete such a course within no more than any six month period. Students will be expected to submit for approval in advance material that provides the objectives and methods to be used for the directed reading work.
 
-While there is much flexibility in what constitutes such a course, certain requirements must be met before work can begin.
+There is considerable flexibility in what constitutes a directed reading course, but certain requirements must be met before work can begin, including:
 
 1. Students must themselves propose a supervising faculty member with whom to work.
 
-2. With the faculty supervisor, students must prepare an adequate project proposal commensurate with the number of credits sought that includes:
+2. With the faculty supervisor, students must prepare an adequate project proposal commensurate with the number of credits sought that includes:  
 
-a. The rationale for doing this work as a Directed Reading course and for the number of credits sought. As well, this statement should indicate how it relates to, but is separate from, thesis work when the student is in a thesis program.
+  - The rationale for doing this work as a Directed Reading course and for the number of credits sought. As well, this statement should indicate how it relates to, but is separate from, thesis work when the student is in a thesis program.
 
-b. An outline of the work to be done and the final product/output to be submitted. If a Reading Course is being proposed, a preliminary bibliography and a planned reading schedule should be included.
+  - An outline of the work to be done and the final product/output to be submitted. If a Reading Course is being proposed, a preliminary bibliography and a planned reading schedule should be included.
 
-c. A timetable, with appropriate milestones to assess a student’s progress and the measures to be used to evaluate the work (e.g., number of written assignments and their length). A student’s faculty supervisor will be responsible for this evaluation as is the case for “regular” courses.
+  - A timetable, with appropriate milestones to assess a student's progress and the measures to be used to evaluate the work (e.g., number of written assignments and their length). A student’s faculty supervisor will be responsible for this evaluation as is the case for “regular” courses.
 
-d. A timetable indicating when the student and faculty supervisor will meet.
-
-Students will be expected to submit for approval in advance material that provides the objectives and methods to be used for the IS/DR work.
+- A timetable indicating when the student and faculty supervisor will meet.
 
 3. The project proposal, signed by both the student and the supervisor, should be submitted to the Student Affairs Office a minimum of one month prior to the start of the semester in which the course will take place. The director, along with one other person on the Program Committee who has accepted responsibility for curriculum matters, will review the proposal and determine if it is to be approved. Once approved internally, a copy will be sent to the Director of Graduate Studies as well as to the Department’s Graduate Studies Office, with a request that the latter obtain a Special Topics course number for the offering. A copy of the final approved version of the course content will be placed in the student’s file.
 
