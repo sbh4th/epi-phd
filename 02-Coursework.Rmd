@@ -3,7 +3,7 @@ output:
   pdf_document: default
   html_document: default
 ---
-```{r setup, echo=FALSE, message=FALSE}
+```{r setup, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(readxl)
 library(kableExtra)

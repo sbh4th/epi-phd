@@ -3,7 +3,7 @@ chapter_name: " "
 repo: https://github.com/sbh4th/epi-phd
 output_dir: docs
 rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Coursework.Rmd", 
-  "03-Concentrations.Rmd", "04-Milestones.Rmd",
-  "05-Policies.Rmd", "06-Funding.Rmd"]
+  "03-Concentrations.Rmd", "04-Comps.Rmd", "05-Protocol.Rmd",
+  "06-Thesis.Rmd", "07-Policies.Rmd", "08-Funding.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes

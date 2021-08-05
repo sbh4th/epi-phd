@@ -1,7 +1,7 @@
 --- 
 title: "![](mcgill-epi-logo.png){width=300px}"
 author: "PhD Program Leadership"
-date: "2021-08-04"
+date: "2021-08-05"
 output:
   bookdown::gitbook:
     lib_dir: assets
