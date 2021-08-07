@@ -1,8 +1,4 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
+
 
 # Coursework
 PhD students are required to complete 25 course credits, including 16 required credits and 9 elective credits. 
