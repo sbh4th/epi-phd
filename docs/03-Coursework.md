@@ -21,107 +21,243 @@ Students are also required to take 9 credits of elective coursework, at the 500 
 
 These courses can be chosen from the Department’s current offer of more than 40 courses in EBOH as well as from other McGill Departments. To assist you in your course selections see the Ph.D. Epidemiology Electives Guidelines page. Below in Table \@ref(tab:elect) you can find a list of current EBOH courses commonly taken as electives. However, courses from other departments or faculties may be possible, depending on the thesis subject matter and subject to the approval of your supervisor(s) and the Program Director. 
 
-\begin{table}
-
-\caption{(\#tab:elect)EBOH Electives as of Fall 2021}
-\centering
-\resizebox{\linewidth}{!}{
-\begin{tabular}[t]{l|r|l}
-\hline
-Course & Credits & Elective Category\\
-\hline
-\cellcolor{gray!6}{BIOS 612 Advanced Generalized Linear Models} & \cellcolor{gray!6}{4} & \cellcolor{gray!6}{Biostatistics}\\
-\hline
-BIOS 624 Data Analysis \& Report Writing & 4 & Biostatistics\\
-\hline
-\cellcolor{gray!6}{BIOS 691 Bayesian Analysis in the Health Sciences 1} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Biostatistics}\\
-\hline
-EPIB 625 Ethics of Human Research & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{EPIB 627 Analysis of Correlated Data} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Biostatistics}\\
-\hline
-EPIB 628 Measurement in Epidemiology & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{EPIB 629 Knowledge Synthesis} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-EPIB 631 Pharmacoepidemiology 2 & 2 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{EPIB 632 Mental Disorders: Population Perspectives and Methods} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-EPIB 633 Pharmacoepidemiology 1 & 2 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{EPIB 635 Clinical Trials} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-EPIB 637 Advanced Survival Analysis & 3 & Biostatistics\\
-\hline
-\cellcolor{gray!6}{EPIB 638 Mathematical Modeling of Infectious Diseases} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-EPIB 639 Pharmacoepidemiology Methods & 4 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{EPIB 645 Confounding Control in Pharmacoepidemiology} & \cellcolor{gray!6}{1} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-EPIB 647 Analysis of Temporal and Spatial Data & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{EPIB 648 Methods in Social Epidemiology} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-EPIB 654 Pharmacoepidemiology 4 & 2 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{EPIB 661 Pharmacoepidemiology 3} & \cellcolor{gray!6}{2} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-EPIB 662 Pharmacological Basis of Pharmacoepidemiology & 1 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{EPIB 671 Cancer Epidemiology\&Prevention} & \cellcolor{gray!6}{2} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-EPIB 675 Special Topics: Health Care Systems Anaylsis Using Administrative Data & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{EPIB 676 Special Topics: Bayesian Analysis in the Health Sciences} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Biostatistics}\\
-\hline
-EPIB 679 Special Topics: Genetic Epidemiology & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{EPIB 681 Global Health: Epid. Research} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-EPIB 684 Princ of Envrnmntl Hlth Sci 1 & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{EPIB 685 Princ of Envrnmntl Hlth Sci 2} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-EPIB 686 Environmental Health Seminar & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{PPHS 501 Population Health and Epidemiology} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-PPHS 511 Fundamentals of Global Health & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{PPHS 525 Healthcare Systems in Comparative Perspective} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-PPHS 527 Economics for Health Services Research and Policy & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{PPHS 528 Economic Evaluation of Health Programs} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-PPHS 529 Global Environmental Health and Burden of Disease & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{PPHS 612 Principles/Pub Hlth Practice} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-PPHS 613 The Practice of Global Health & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{PPHS 614 Knowledge Translation and Public Health Leadership} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-PPHS 615 Intro:Infectious Disease Epid & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{PPHS 616 Principles \& Practice of Public Health Surveillance} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-PPHS 617 Impact Evaluation & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{PPHS 618 Program Planning and Evaluation in Public Health} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-PPHS 624 Public Health Ethics \& Policy & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{PPHS 682 Special Topics: Critical Perspectives on Global Health} & \cellcolor{gray!6}{2} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-PPHS 683 Special Topics: Vaccine Epidemiology & 3 & Epi/Substantive\\
-\hline
-\cellcolor{gray!6}{PPHS 684 Special Topics: Foundations of Health Promotion} & \cellcolor{gray!6}{3} & \cellcolor{gray!6}{Epi/Substantive}\\
-\hline
-\end{tabular}}
-\end{table}
+<table class="table table-striped table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:elect)EBOH Electives as of Fall 2021</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Course </th>
+   <th style="text-align:right;"> Credits </th>
+   <th style="text-align:left;"> Elective Category </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> BIOS 612 Advanced Generalized Linear Models </td>
+   <td style="text-align:right;"> 4 </td>
+   <td style="text-align:left;"> Biostatistics </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BIOS 624 Data Analysis &amp; Report Writing </td>
+   <td style="text-align:right;"> 4 </td>
+   <td style="text-align:left;"> Biostatistics </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BIOS 691 Bayesian Analysis in the Health Sciences 1 </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Biostatistics </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 625 Ethics of Human Research </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 627 Analysis of Correlated Data </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Biostatistics </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 628 Measurement in Epidemiology </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 629 Knowledge Synthesis </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 631 Pharmacoepidemiology 2 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 632 Mental Disorders: Population Perspectives and Methods </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 633 Pharmacoepidemiology 1 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 635 Clinical Trials </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 637 Advanced Survival Analysis </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Biostatistics </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 638 Mathematical Modeling of Infectious Diseases </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 639 Pharmacoepidemiology Methods </td>
+   <td style="text-align:right;"> 4 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 645 Confounding Control in Pharmacoepidemiology </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 647 Analysis of Temporal and Spatial Data </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 648 Methods in Social Epidemiology </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 654 Pharmacoepidemiology 4 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 661 Pharmacoepidemiology 3 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 662 Pharmacological Basis of Pharmacoepidemiology </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 671 Cancer Epidemiology&amp;Prevention </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 675 Special Topics: Health Care Systems Anaylsis Using Administrative Data </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 676 Special Topics: Bayesian Analysis in the Health Sciences </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Biostatistics </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 679 Special Topics: Genetic Epidemiology </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 681 Global Health: Epid. Research </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 684 Princ of Envrnmntl Hlth Sci 1 </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 685 Princ of Envrnmntl Hlth Sci 2 </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> EPIB 686 Environmental Health Seminar </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 501 Population Health and Epidemiology </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 511 Fundamentals of Global Health </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 525 Healthcare Systems in Comparative Perspective </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 527 Economics for Health Services Research and Policy </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 528 Economic Evaluation of Health Programs </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 529 Global Environmental Health and Burden of Disease </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 612 Principles/Pub Hlth Practice </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 613 The Practice of Global Health </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 614 Knowledge Translation and Public Health Leadership </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 615 Intro:Infectious Disease Epid </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 616 Principles &amp; Practice of Public Health Surveillance </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 617 Impact Evaluation </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 618 Program Planning and Evaluation in Public Health </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 624 Public Health Ethics &amp; Policy </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 682 Special Topics: Critical Perspectives on Global Health </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 683 Special Topics: Vaccine Epidemiology </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PPHS 684 Special Topics: Foundations of Health Promotion </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Epi/Substantive </td>
+  </tr>
+</tbody>
+</table>
 
 ## Directed Reading Courses
 
