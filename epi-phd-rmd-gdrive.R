@@ -11,9 +11,10 @@ library(rmdrive)
 
 # Code to upload all handbook chapters as separate files
 # to google drive as google docs
-chapters <- c("01-Introduction", "02-Coursework", 
-  "03-Concentrations", "04-Comps", "05-Protocol",
-  "06-Thesis", "07-Policies", "08-Funding")
+chapters <- c("01-Introduction", "02-Supervision", 
+              "03-Coursework", "04-Concentrations", 
+              "05-Comps", "06-Protocol", "07-Thesis", 
+              "08-Policies", "09-Funding")
 
 # loop over list of chapters
 for (c in chapters) {
@@ -26,10 +27,15 @@ for (c in chapters) {
 # Download the google doc into your current working 
 # directory as an Rmd file
 
-#download_rmd(file = "manuscripts/sibs-manuscript", 
-             # gfile = "u2-sibs/sibs-manuscript") 
+remotes::install_github("claudiozandonella/trackdown")
+library(trackdown)
 
+# individual chapter
+rmdrive::download_rmd(file = "07-Policies",
+  path = "mcgill-admin/epi-phd-handbook",
+  gfile = "07-Policies") 
 
+rmdrive::render_rmd
 # This line of code will update the existing Google doc with the 
 # changes you made to the Rmd file:
 
@@ -40,3 +46,7 @@ for (c in chapters) {
     gfile = c)
 }
 
+
+# trackdown::update_file(file = "01-Introduction.Rmd",
+#   gpath = "mcgill-admin/epi-phd-handbook",
+#   gfile = "01-Introduction", hide_code = TRUE) 

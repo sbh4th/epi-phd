@@ -2,8 +2,8 @@ book_filename: "epi-phd-handbook"
 chapter_name: " "
 repo: https://github.com/sbh4th/epi-phd
 output_dir: docs
-rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Coursework.Rmd", 
-  "03-Concentrations.Rmd", "04-Comps.Rmd", "05-Protocol.Rmd",
-  "06-Thesis.Rmd", "07-Policies.Rmd", "08-Funding.Rmd"]
+rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Supervision.Rmd",
+  "03-Coursework.Rmd", "04-Concentrations.Rmd", "05-Comps.Rmd", 
+  "06-Protocol.Rmd", "07-Thesis.Rmd", "08-Policies.Rmd", "09-Funding.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes

@@ -60,7 +60,7 @@ There is considerable flexibility in what constitutes a directed reading course,
 3. The project proposal, signed by both the student and the supervisor, should be submitted to the Student Affairs Office a minimum of one month prior to the start of the semester in which the course will take place. The director, along with one other person on the Program Committee who has accepted responsibility for curriculum matters, will review the proposal and determine if it is to be approved. Once approved internally, a copy will be sent to the Director of Graduate Studies as well as to the Department’s Graduate Studies Office, with a request that the latter obtain a Special Topics course number for the offering. A copy of the final approved version of the course content will be placed in the student’s file.
 
 ## Example curriculum
-The timing and choices to fulfill the course requirements will likely be unique for each student. Below we provide one example of a possible curriculum over the course of the program.
+The timing and choices to fulfill the course requirements will likely be unique for each student. Decisions regarding the timing and choice of elective courses should be done in consultation with your supervisor(s) and dissertation committee. Some students may elect to take electives early in their program to complete their requirements as soon as possible, others may decide to focus on restricting their attention to the required courses in the first year to prepare for the comprehensive exam. Moreover, it should be noted that the 25 course credits needed for the PhD degree are the *minimum*, and some students may wish to take additional courses to satisfy their intellectual curiosity or to complement their thesis work. Below we provide one example of a possible curriculum over the course of the program:
 
 - Year 1 
   - Fall: EPIB 703 Study Design; EPIB 704 Epi Methods I; Ethics Requirement: Tri-Council Policy for Ethical Conduct of Research online module (TCPS-2) (non-credit)  
@@ -72,4 +72,4 @@ The timing and choices to fulfill the course requirements will likely be unique 
   - Winter: EPIB 702 PhD proposal; EPIB or substantive electives (e.g. Pharmacoepidemiology, Impact Evaluation,  Knowledge Synthesis)
   
 - Year 3
-  - Fall: 
+  - Fall: EPIB electives (as needed)

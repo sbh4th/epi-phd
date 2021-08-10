@@ -1,8 +1,0 @@
-# PhD Thesis
-
-Thesis research is normally actively undertaken following successfully passing the comprehensive Exam and defending the thesis protocol. It is expected that students will complete their degree within 48 to 60 months of entry into the PhD degree program. The thesis research begins with 
-
-A thesis for the Doctoral degree must constitute original scholarship and must be a distinct contribution to knowledge. It must show familiarity with previous work in the field and must demonstrate your ability to plan and carry out research, organize results, and defend the approach and conclusions in a scholarly manner. The research presented must meet current standards of the discipline and clearly demonstrate how the research advances knowledge in the field. Finally, the thesis must be written in compliance with norms for academic and scholarly expression and for publication in the public domain (see section: withholding a thesis from circulation temporarily). The nature of academic research requires adherence to McGill’s policies on research ethics and intellectual property, as described below.
-
-## Human Subjects Review
-Research involving human participants, animal subjects, micro-organisms, living cells, other biohazards, and/or radioactive materials must have had the appropriate compliance certification. Copies of any certificates of compliance must be retained by the supervisor and student in accordance with McGill’s policies on research ethics. Supervisors indicate on the Nomination of Examiners and Thesis Submission Form that the thesis research has complied with all ethical standards. See the Ethics and Compliance webpage for further information about certification and training requirements.
