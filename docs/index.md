@@ -1,7 +1,7 @@
 --- 
-title: "![](mcgill-epi-logo.png){width=300px} <br> PhD Handbook <br> 2021-2022 Academic Year </br>"
+title: "![](mcgill-epi-logo.png){width=600px} <br><br> PhD Handbook <br> 2021-2022 Academic Year </br>"
 author: "PhD Program Leadership"
-date: "2021-08-10"
+date: "2021-09-08"
 output:
   bookdown::gitbook:
     lib_dir: assets
@@ -13,13 +13,17 @@ output:
     keep_tex: yes
   bookdown::html_book:
     css: toc.css
-  pdf_document: default
+  pdf_document: 
+    includes:
+      in_header: preamble.tex
 documentclass: book
+classoption: openany
 bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
 github-repo: sbh4th/epi-phd
 url: http\://https://sbh4th.github.io/epi-phd
+urlcolor: blue
 description: McGill Epidemiology PhD student handbook
 site: bookdown::bookdown_site
 ---

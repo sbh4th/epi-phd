@@ -1,9 +1,10 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
 %
 \documentclass[
-]{book}
+  openany]{book}
 \usepackage{lmodern}
 \usepackage{amsmath}
 \usepackage{ifxetex,ifluatex}
@@ -37,9 +38,13 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-  pdftitle={   PhD Handbook   2021-2022 Academic Year },
+  pdftitle={    PhD Handbook   2021-2022 Academic Year },
   pdfauthor={PhD Program Leadership},
-  hidelinks,
+  colorlinks=true,
+  linkcolor=Maroon,
+  filecolor=Maroon,
+  citecolor=Blue,
+  urlcolor=blue,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs}
@@ -69,7 +74,21 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
-\usepackage{booktabs}
+% margins
+\usepackage[left=3.175cm,right=3.175cm,top=3.175cm,bottom=3.175cm]{geometry}
+
+% sections in sans serif
+\usepackage{sectsty}
+\chapterfont{\Large\bfseries}
+\sectionfont{\large\bfseries}
+\subsectionfont{\large\bfseries}
+\allsectionsfont{\sffamily}
+
+\usepackage{fontsize}
+  \changefontsize[12.8pt]{12pt}
+
+% avoid figure on its own page
+\renewcommand{\floatpagefraction}{.8}
 \usepackage{booktabs}
 \usepackage{longtable}
 \usepackage{array}
@@ -90,14 +109,15 @@
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
 
-\title{\includegraphics[width=3.125in,height=\textheight]{mcgill-epi-logo.png} PhD Handbook 2021-2022 Academic Year}
+\title{\includegraphics[width=6.25in,height=\textheight]{mcgill-epi-logo.png} PhD Handbook 2021-2022 Academic Year}
 \author{PhD Program Leadership}
-\date{2021-08-10}
+\date{2021-09-08}
 
 \begin{document}
 \maketitle
 
 {
+\hypersetup{linkcolor=}
 \setcounter{tocdepth}{1}
 \tableofcontents
 }

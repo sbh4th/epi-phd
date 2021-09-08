@@ -28,4 +28,4 @@ The timeline for program completion varies depending on each student's circumsta
 ## Example Timeline and Milestones
 Below we show a very general example of a timeline for completing all of the required coursework and other milestones, as well as some reporting requirements. 
 
-<img src="01-Introduction_files/figure-html/plan-1.png" width="672" />
+![](01-Introduction_files/figure-latex/plan-1.pdf)<!-- --> 
