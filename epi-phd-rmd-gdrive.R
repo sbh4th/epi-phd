@@ -47,6 +47,3 @@ for (c in chapters) {
 }
 
 
-# trackdown::update_file(file = "01-Introduction.Rmd",
-#   gpath = "mcgill-admin/epi-phd-handbook",
-#   gfile = "01-Introduction", hide_code = TRUE) 
