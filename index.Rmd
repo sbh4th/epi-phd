@@ -1,5 +1,5 @@
 --- 
-title: "![](mcgill-epi-logo.png){width=600px} <br><br> PhD Handbook <br> 2021-2022 Academic Year </br>"
+title: "![](mcgill-epi-logo.png){width=600px} <br><br> PhD Handbook <br> 2022-2023 Academic Year </br>"
 author: "PhD Program Leadership"
 date: "`r Sys.Date()`"
 output:

@@ -1,7 +1,7 @@
 --- 
-title: "![](mcgill-epi-logo.png){width=600px} <br><br> PhD Handbook <br> 2021-2022 Academic Year </br>"
+title: "![](mcgill-epi-logo.png){width=600px} <br><br> PhD Handbook <br> 2022-2023 Academic Year </br>"
 author: "PhD Program Leadership"
-date: "2022-06-07"
+date: "2022-08-22"
 output:
   bookdown::gitbook:
     lib_dir: assets
