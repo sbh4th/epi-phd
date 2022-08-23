@@ -1,7 +1,7 @@
 # Policies
 
 ## Progress Tracking
-Each year the Department requires PhD students to submit an annual tracking form. This is to be done in collaboration with your supervisor(s). and helps the Department to monitor your progress toward completing your degree as well as providing a shared opportunity to set goals and review progress with your supervisor(s).
+Each year the Department requires PhD students to submit an annual tracking form. This is to be done in *collaboration* with your supervisor(s) and helps the Department to monitor your progress toward completing your degree as well as providing a shared opportunity to set goals and review progress with your supervisor(s). The departmental tracking form can be found [here](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/gps_gradstudent_progress_tracking_report_2020.pdf)
 
 This is a mandatory policy and procedure to track the research progress of graduate students. Students should familiarize themselves with this policy by reviewing the full text available on the GPS [website.](https://www.mcgill.ca/gps/students/progress-tracking) 
 
@@ -34,15 +34,13 @@ In order to transfer from the MSc to the PhD program, the MSc student must compl
 **REQUIRED DOCUMENTS**
 
 - A three to five-page outline of the proposed PhD thesis proposal including:  
-  - Research question
-  - Background and brief literature review indicating the importance of the proposed   - research
-  - Preliminary research design
-  - Data source
-  - Preliminary analysis plan
-  - A timeline for completion of the PhD program  
+  - Research question;
+  - Background and brief literature review indicating the importance of the proposed research;
+  - Preliminary research design, data source(s), and analysis plan;
+  - A timeline for completion of the PhD program;
 - Letters of support from the current MSc supervisor(s) and proposed PhD supervisor(s). In cases where this is the same person, one additional letter from a faculty member in the Department is required. The letter from the proposed PhD supervisor(s) must include a statement of financial support for the candidate and research.
 
-The transfer application material must be submitted by **April 25** to gradadmin.eboh@mcgill.ca.
+The transfer application material must be submitted by **April 25** to the Student Services Office (gradadmin.eboh@mcgill.ca).
 
 ## Policy on Departmental Seminars
 
@@ -57,7 +55,6 @@ Students who will be unable to attend 60% of the seminars should send a request 
 
 University Policy Concerning E-Mail As An Official Means Of Communication With Students. E-mail is an official means of communication between McGill University and its students.
  
-
 In order to satisfy the need for timely and efficient communication, and to provide a better service to its students, McGill University has instituted a policy that establishes e-mail as an official means of communicating with students.
 
 Upon registration at McGill, each student is assigned an official McGill e-mail address and a McGill e-mail box. This address may be viewed and verified via Minerva, under the Personal menu.
