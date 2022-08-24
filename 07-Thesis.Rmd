@@ -1,5 +1,4 @@
 # PhD Thesis
-*[update to include MyThesis guidance?]*  
 
 Thesis research is normally actively undertaken following successfully passing the comprehensive exam and defending the thesis protocol. It is expected that students will complete their degree within 48 to 60 months of entry into the PhD degree program.
 
@@ -17,15 +16,17 @@ Usually chosen from members of the Department with expertise in the subject area
 
 2. EXTERNAL EXAMINER – submit up to four, but at least two, names in a ranked order
 The external examiner must hold a PhD degree, or equivalent, and should be from outside McGill. The proposed external examiners should have demonstrated epidemiologic and/or biostatistical expertise, as well as expertise in the substantive area of the thesis.  Please clearly indicate their qualifications and your main reasons for choosing them.  The Program Committee designate will validate the appropriateness of the proposed choices. In order to minimize any real or perceived conflicts of interest, the Department will contact the external examiner once approved to secure his/her commitment to evaluate the thesis.  The student or supervisor should NOT contact any of the proposed external examiners. 
+
 External examiners must be perceived to be able to examine the student and the thesis at arm's length, free of conflict of interest from any source. The test of whether or not a conflict of interest might exist is whether a reasonable outside person could consider that a situation could give rise to an apprehension of bias. The candidate's unit must take reasonable steps to avoid recommending an examiner whose relationship with the candidate, the supervisor, or their research could be seen as jeopardizing an impartial judgment on the thesis. Any individual asked to examine a thesis must declare possible sources of conflict. The following checklist, while not exhaustive, itemizes situations that could represent conflict of interest, and thus need to be declared and generally avoided. It is the responsibility of the unit (student's supervisor, chair or designate) to complete this checklist in consultation with the nominated examiner and provide it to the Thesis Office along with the Nomination of Examiners form. An answer of YES to any question below would normally exclude this individual as an examiner. Address any queries to the Thesis Office.  
-- Have you co-authored or otherwise carried out research in collaboration with the student or the supervisor (within the last five years)?  Yes or No
-- Do you knowingly have a financial interest in an entity that could benefit from the thesis research? Yes or No
-- Have you previously read the thesis, or parts of it, or evaluated the student's thesis research (e.g., as an advisor, as a supervisory committee member, evaluator for progress tracking)? Yes or No
-- Have you previously examined or been examined by the student's supervisor (within the last five years), e.g., the former student or former supervisor of the student's supervisor? Yes or No
-- Do you have a former or pending affiliation with the student's academic unit* (within the last five years); e.g., graduated from the same academic program or been offered an academic appointment in the unit*? Yes or No
-- Have you held an academic appointment at McGill within the last five years? Yes or No
-- Have you engaged in (or intend to engage in) discussions/negotiations with student or supervisor relating to future employment or supervision? Yes or No
-- Do you have a personal or financial relationship to the student or the supervisor? Yes or No
+
+- Have you co-authored or otherwise carried out research in collaboration with the student or the supervisor (within the last five years)?
+- Do you knowingly have a financial interest in an entity that could benefit from the thesis research? 
+- Have you previously read the thesis, or parts of it, or evaluated the student's thesis research (e.g., as an advisor, as a supervisory committee member, evaluator for progress tracking)? 
+- Have you previously examined or been examined by the student's supervisor (within the last five years), e.g., the former student or former supervisor of the student's supervisor? 
+- Do you have a former or pending affiliation with the student's academic unit* (within the last five years); e.g., graduated from the same academic program or been offered an academic appointment in the unit?
+- Have you held an academic appointment at McGill within the last five years? 
+- Have you engaged in (or intend to engage in) discussions/negotiations with student or supervisor relating to future employment or supervision? 
+- Do you have a personal or financial relationship to the student or the supervisor? 
 - Relationships that might appear to have a conflict of interest include:
   - A past or present spouse or partner
   - A close family member
@@ -56,3 +57,9 @@ In addition, you must complete the on-line interactive [tutorial](http://www.pre
 "Official" guidelines for doctoral theses are [provided](https://www.mcgill.ca/gps/thesis/thesis-guidelines/preparation) by the Office of Graduate and Postdoctoral studies. There are different requirements for traditional "monograph-based" theses and "manuscript-based" theses, the latter of which most students in Epidemiology have published in recent years. 
 
 Each year the Department organizes thesis-writing workshops that go over the details related to thesis submission, issues related to formatting, and provide links to resources for writing. The last workshop slides are available [here](docs/PhD_Epi_Thesis_Writing_Workshop_5Feb2021_KHayden.pptx) and [here](docs/thesis-workshop-PhD-2021-02-05.pdf). 
+
+## MyThesis
+
+Doctoral students are required to use McGill's [MyThesis](https://www.mcgill.ca/gps/thesis/thesis-guidelines/initial-submission/what-mythesis) portal to submit their thesis. myThesis is a thesis examination management system for McGill graduate students. It is part of the myProgress hub. McGill graduate students are required to use myThesis: 1) to notify their supervisors in advance of their intent to submit their thesis; 2) to nominate thesis examiners; and 3) for their initial thesis submission. Examiners are also able to use myThesis to retrieve the initial thesis, and to complete and submit their evaluation.
+
+A schematic of the entire MyThesis timeline is provided on the GPS [website](https://www.mcgill.ca/gps/files/gps/mcgill_mythesis_overview_of_process.pdf).

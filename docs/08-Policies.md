@@ -43,6 +43,7 @@ In order to transfer from the MSc to the PhD program, the MSc student must compl
 The transfer application material must be submitted by **April 25** to the Student Services Office (gradadmin.eboh@mcgill.ca).
 
 ## Policy on Departmental Seminars
+**[subject to revision]**  
 
 Updated November 9th, 2015
 The Department considers attendance at its seminars an important component of training and expects all students to attend as frequently as possible.
@@ -64,5 +65,3 @@ The McGill E-mail Address points to the McGill e-mail box by default for all stu
 This policy applies to all McGill students and employees who manage official communications with students.
 
 For confidential and official communication requiring an original signature, communication is by (physical) mail. Therefore, please ensure that your current postal address is updated on Minerva.  Students must also inform the Student Affairs Office and complete the details in Minerva.
-
-**Please keep in mind that although we do our best to keep all the information on the website up to date, we may have missed something. If you ever have questions about anything please contact the Student Affairs Office to clarify.

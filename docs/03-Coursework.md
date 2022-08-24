@@ -295,8 +295,13 @@ The timing and choices to fulfill the course requirements will likely be unique 
   - Summer: EPIB 701 Comprehensive Exam (June)
 
 - Year 2
-  - Fall: EPIB 702 PhD proposal; EPIB 707 Research Design; BIOS elective (e.g., Advanced Generalized Linear Models, Causal Inference)
+  - Fall: EPIB 702 PhD proposal; EPIB 707 Research Design; BIOS elective (e.g., Advanced Generalized Linear Models, Causal Inference); TA requirement
   - Winter: EPIB 702 PhD proposal; EPIB or substantive electives (e.g. Pharmacoepidemiology, Impact Evaluation,  Knowledge Synthesis)
   
 - Year 3
   - Fall: EPIB electives (as needed)
+  - Winter: EPIB electives (as needed); Thesis research
+  
+- Year 4
+  - Fall: Thesis research
+  - Winter: Thesis research

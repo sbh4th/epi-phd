@@ -11,16 +11,16 @@ library(rmdrive)
 
 # Code to upload all handbook chapters as separate files
 # to google drive as google docs
-chapters <- c("01-Introduction", "02-Supervision", 
-              "03-Coursework", "04-Concentrations", 
-              "05-Comps", "06-Protocol", "07-Thesis", 
-              "08-Policies", "09-Funding")
+chapters <- c("01-Introduction.Rmd", "02-Supervision.Rmd", 
+              "03-Coursework.Rmd", "04-Concentrations.Rmd", 
+              "05-Comps.Rmd", "06-Protocol.Rmd", "07-Thesis.Rmd", 
+              "08-Policies.Rmd", "09-Funding.Rmd")
 
 # loop over list of chapters
 for (c in chapters) {
-  rmdrive::upload_rmd(
+  trackdown::update_file(
     file = c, 
-    path="mcgill-admin/epi-phd-handbook", 
+    gpath="mcgill-admin/epi-phd-handbook", 
     gfile = c)
 }
 
