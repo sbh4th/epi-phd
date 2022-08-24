@@ -21,7 +21,8 @@ for (c in chapters) {
   trackdown::update_file(
     file = c, 
     gpath="mcgill-admin/epi-phd-handbook", 
-    gfile = c)
+    gfile = c,
+    hide_code = TRUE)
 }
 
 # Download the google doc into your current working 
