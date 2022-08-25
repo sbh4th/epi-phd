@@ -1,6 +1,6 @@
 # Supervision
 
-Supervision plays a crucial role in your doctoral training, so the decision of choosing a supervisor should be made with care and attention. Consider your substantive research interests, funding, timelines, how much time and responsiveness you may need from a supervisor, as well as an potential supervisor's existing supervision load when making your decision. Don't be afraid to ask lots of questions about a supervisors style of working or research group policies before committing to work with someone.   
+Supervision plays a crucial role in your doctoral training, so the decision of choosing a supervisor should be made with care and attention. Consider your substantive research interests, funding, timelines, how much time and responsiveness you may need from a supervisor, as well as a potential supervisor's existing supervision load when making your decision. Don't be afraid to ask lots of questions about a supervisor's style of working or research group policies before committing to work with someone.   
 
 ## Getting Started
 By default, all doctoral students, even those that have previously discussed supervision with a faculty member, are initially advised by the designated PhD Program Advisor. The advisor's role is to provide early guidance on your academic program and career planning, to mentor you, and to serve as your advocate when necessary. Generally speaking, once a supervisor has been approved, the supervisor takes on the primary mentorship role.
@@ -10,7 +10,7 @@ Of course, this does not exclude the possibility of a student-supervisor match a
 ## Thesis Supervisor
 Doctoral students are expected to identify a supervisor by no later than 15 February of their first year of study, but identifying a supervisor earlier is encouraged, as solid supervision is important for planning and making progress. 
 
-If you currently don't have a supervisor, take the time to contact professors within the various areas of faculty research that interest you. Faculty research interest are broadly categorized on the departmental [website](https://www.mcgill.ca/epi-biostat-occh/research). It is also worthwhile networking and discussing potential supervisors with your peers and more senior doctoral students. If you wish to be supervised by an [Associate Member](https://www.mcgill.ca/epi-biostat-occh/people/field_mprofile_group/Associate%20Members) of the department it may be necessary to have a Full Member of the faculty as a co-supervisor. Contact the Student Services Office or the Program Director/Advisor for assistance.
+If you currently don't have a supervisor, take the time to contact professors within the various areas of faculty research that interest you. Faculty research interests are broadly categorized on the departmental [website](https://www.mcgill.ca/epi-biostat-occh/research). It is also worthwhile networking and discussing potential supervisors with your peers and more senior doctoral students. If you wish to be supervised by an [Associate Member](https://www.mcgill.ca/epi-biostat-occh/people/field_mprofile_group/Associate%20Members) of the department it may be necessary to have a Full Member of the faculty as a co-supervisor. Contact the Student Services Office or the Program Director/Advisor for assistance.
 
 Although uncommon, note that it is certainly possible to change thesis supervisors at any point during your training. Generally, if you plan to change supervisors, it is advantageous to do so earlier rather than later in your training. Changing supervisors has consequences for funding and possibly your thesis topic and timeline, and should be carefully considered. Before you make a decision to change, talk to the PhD program administrators.
 
@@ -64,7 +64,7 @@ Thesis Committee Members will:
 
 - be a consultant to you and your supervisor;
 - evaluate (with other members of thesis committee) and when satisfied, formally - approve your research protocol;
-- attend once-a-semester meeting of full thesis committee and take active part in - assessing progress and setting goals for you.
+- attend once-a-semester meeting of your full thesis committee and take active part in assessing progress and setting goals for you.
 
 ### Expectations for you
 The department expects that you will:
@@ -84,4 +84,4 @@ Completing a PhD is a long and occasionally frustrating process for everyone inv
 5. speak to the Ombudsperson
 6. speak to the Associate Dean (Graduate Studies)
 
-See www.mcgill.ca/students/srr/disputes for further information.
+See McGill's [page](www.mcgill.ca/students/srr/disputes) on resolving disputes in the Student Rights and Responsibilities section for further information.

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-All PhD students will prepare and defend a protocol for their thesis project. This is typically after students have passed the Comprehensive Exam after the first year of require coursework, though some students may elect to register for the course before passing their comprehensive examination, while defending their own protocol afterwards. It is intended to provide the student with the experience necessary to propose a comprehensive research project and to convince their peers of its scientific merit and originality. It provides a standardized critical evaluation to supplement the expertise of the student’s PhD supervisor and committee and thereby improve the likelihood of the thesis' success. 
+All PhD students will prepare and defend a protocol for their thesis project. This is typically after students have passed the Comprehensive Exam after the first year of required coursework, though some students may elect to register for the course before passing their comprehensive examination, while defending their own protocol afterwards. It is intended to provide the student with the experience necessary to propose a comprehensive research project and to convince their peers of its scientific merit and originality. It provides a standardized critical evaluation to supplement the expertise of the student’s PhD supervisor and committee and thereby improve the likelihood of the thesis' success. 
 
 ## Format
 

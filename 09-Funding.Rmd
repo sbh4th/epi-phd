@@ -1,6 +1,6 @@
 # Funding
 
-## Deparmental Obligations
+## Departmental Obligations
 
 The Department, jointly with the PhD student's supervisor, offers an annual funding package valued at a *minimum* of \$26,500 for a *maximum* of four years. For international PhD students an additional \$1000 is included to cover the cost of compulsory participation in the McGill International Health Insurance plan. In addition, the Department will use different mechanisms such as Differential Fee Waivers to cover the additional tuition for international students so that they pay tuition at the same level as Canadian students.
 

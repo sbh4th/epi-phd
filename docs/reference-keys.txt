@@ -51,3 +51,5 @@ mythesis
 canadian-institute-of-health-research-cihr
 fonds-de-la-recherche-en-santé-du-québec-frsqfrqs
 natural-science-engineering-research-council-nserc
+teaching-assistantship
+departmental-obligations

@@ -43,14 +43,16 @@ In order to transfer from the MSc to the PhD program, the MSc student must compl
 The transfer application material must be submitted by **April 25** to the Student Services Office (gradadmin.eboh@mcgill.ca).
 
 ## Policy on Departmental Seminars
-**[subject to revision]**  
 
-Updated November 9th, 2015
 The Department considers attendance at its seminars an important component of training and expects all students to attend as frequently as possible.
 
-All Epidemiology and Public Health graduate students will be expected to attend 60% of the Epidemiology Seminars each term irrespective of their program year. Attendance at seminars will be mandatory to maintain “good standing” during academic studies. This means that attendance at seminars will be required to maintain eligibility for Departmental support for prizes, financial aid, travel awards, studentship applications, etc. Attendance at Biostatistics or at other seminars on campus or in teaching hospitals will be encouraged as always depending on one's areas of interest but will not be mandatory.
+EBOH PhD students will be expected to attend 60% of the Epidemiology Seminars each term irrespective of their program year. Attendance at seminars will be mandatory to maintain "good standing" during academic studies. This means that attendance at seminars will be required to maintain eligibility for Departmental support for prizes, financial aid, travel awards, studentship applications, etc. Attendance at Biostatistics or at other seminars on campus or in teaching hospitals (depending on one's areas of interest) will be encouraged but will not be mandatory.
 
-Students who will be unable to attend 60% of the seminars should send a request for an exemption to the chairs office justifying their absence (eg. residing outside of Montreal, travel relating to their studies, family reasons).
+Students who will be unable to attend 60% of the seminars should send a request for an exemption to the Chair's office justifying their absence (e.g., residing outside of Montreal, travel relating to their studies, family reasons).
+
+## Teaching Assistantship
+
+All doctoral students are required to hold a teaching assistant position *at least once* during your training. Regardless of whether or not doctoral students may be interested in an academic career, the hands-on experience of course preparation, didactic and one-on-one explanation, and student mentoring are valuable skills for any scientist. Teaching is also an excellent opportunity to revisit and master core epidemiological concepts, and the experience of explaining and mentoring other students can help to reinforce other aspects of your epidemiology training. 
 
 ## Policy on Email
 

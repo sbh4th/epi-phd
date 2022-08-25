@@ -45,9 +45,9 @@ In accordance with university guidelines (Policy on the Ethical Conduct of Resea
 
 Research involving human participants, animal subjects, micro-organisms, living cells, other biohazards, and/or radioactive materials must have had the appropriate compliance certification. Copies of any certificates of compliance must be retained by the supervisor and student in accordance with McGill’s policies on research ethics. Supervisors indicate on the Nomination of Examiners and Thesis Submission Form that the thesis research has complied with all ethical standards. See the Ethics and Compliance webpage for further information about certification and training requirements.
 
-Even if your supervisor has already obtained IRB approval for the larger research study of which your thesis work forms just a part, the departments insists (partly since you defend the thesis as *your* work, party for training purposes) that you obtain IRB approval of the specific work you are doing, and include this specific approval [ form(s) or letter(s) ] (in addition to those for the broader project) in your own thesis.
+Even if your supervisor has already obtained IRB approval for the larger research study of which your thesis work forms just a part, the departments insists (partly since you defend the thesis as *your* work, partly for training purposes) that you obtain IRB approval of the specific work you are doing, and include this specific approval (in addition to those for the broader project) in your own thesis.
 
-The definition of "research involving human subjects" is broad. See [Student Guide To Ethics Review](https://www.mcgill.ca/research/researchers/compliance/human) For Research Involving Human Subjects. This document also describes research involving human subjects which does not require ethics review. If still in doubt, additional advice can be obtained from your Program Advisor.
+The definition of "research involving human subjects" is broad. See [Student Guide To Ethics Review](https://www.mcgill.ca/research/researchers/compliance/human) For Research Involving Human Subjects. This document also describes research involving human subjects which does not require ethics review. If still in doubt, additional advice can be obtained from the Program Advisor or Director.
 
 Applications for ethics approval should be directed to the [Faculty of Medicine Research Ethics Board](https://www.mcgill.ca/medresearch/ethics) (commonly referred to as the Institutional Review Board or IRB) or to one of the following Affiliated Hospital Research Ethics Boards: the [McGill University Health Centre](https://muhc.ca/cae/page/research-ethics), the [Douglas Hospital](http://www.douglas.qc.ca/page/ethics), the [SMBD Jewish General Hospital](http://www.jgh.ca/en/ResearchEthicsCommittee) or the [St. Mary's Hospital Centre](http://www.stmarysresearch.ca/en/research_review/research-review).
 
@@ -56,7 +56,7 @@ In addition, you must complete the on-line interactive [tutorial](http://www.pre
 ## Thesis Format
 "Official" guidelines for doctoral theses are [provided](https://www.mcgill.ca/gps/thesis/thesis-guidelines/preparation) by the Office of Graduate and Postdoctoral studies. There are different requirements for traditional "monograph-based" theses and "manuscript-based" theses, the latter of which most students in Epidemiology have published in recent years. 
 
-Each year the Department organizes thesis-writing workshops that go over the details related to thesis submission, issues related to formatting, and provide links to resources for writing. The last workshop slides are available [here](docs/PhD_Epi_Thesis_Writing_Workshop_5Feb2021_KHayden.pptx) and [here](docs/thesis-workshop-PhD-2021-02-05.pdf). 
+Each year the Department organizes thesis-writing workshops that go over the details related to thesis submission, issues related to formatting, and provide links to resources for writing. The last workshop slides are available [here](docs/PhD_Epi_Thesis_Writing_Workshop_5Feb2021_KHayden.pptx) and [here](docs/thesis-workshop-PhD-2021-12-03.pdf). 
 
 ## MyThesis
 
