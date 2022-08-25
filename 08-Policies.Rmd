@@ -3,7 +3,7 @@
 ## Progress Tracking
 Each year the Department requires PhD students to submit an annual tracking form. This is to be done in *collaboration* with your supervisor(s) and helps the Department to monitor your progress toward completing your degree as well as providing a shared opportunity to set goals and review progress with your supervisor(s). The departmental tracking form can be found [here](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/gps_gradstudent_progress_tracking_report_2020.pdf)
 
-This is a mandatory policy and procedure to track the research progress of graduate students. Students should familiarize themselves with this policy by reviewing the full text available on the GPS [website.](https://www.mcgill.ca/gps/students/progress-tracking) 
+This is a mandatory policy and procedure to track the research progress of graduate students. Students should familiarize themselves with this policy by reviewing the full text available on the GPS [website](https://www.mcgill.ca/gps/students/progress-tracking).
 
 Timeline: May 15 of each year.
 

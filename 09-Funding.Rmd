@@ -19,16 +19,16 @@ Duration:	36 months
 Tenure: Canadian institutions only  
 Application deadline: 
 
-- Through a Canadian institution: Contact your institution  
-- Directly to the agencies: October 17, 2022    
+- Through a Canadian institution: Contact your institution 
+- Directly to the agencies: October 17, 2022
 
 To be considered eligible for support by CIHR, you must:  
 
-- be a Canadian citizen or permanent resident of Canada;  
-- be registered in full-time studies in a Canadian graduate school;  
+- be a Canadian citizen or permanent resident of Canada;
+- be registered in full-time studies in a Canadian graduate school;
 - have achieved first-class average at McGill (i.e., A- or 3.70); 
 
-Individuals with a health professional degree who seek support for doctoral research training are eligible to apply for the CIHR Doctoral Research Award. IPlease note that a person holding a health professional degree would receive a higher stipend only through the CIHR Fellowships program.
+Individuals with a health professional degree who seek support for doctoral research training are eligible to apply for the CIHR Doctoral Research Award. Please note that a person holding a health professional degree would receive a higher stipend only through the CIHR Fellowships program.
 
 - Students pursuing an MD/PhD may apply for a Doctoral Research Award but should also consider the MD/PhD Studentships Program.
 
@@ -46,7 +46,7 @@ Duration: 4 years
 To be considered eligible for support, on the deadline date, you must:  
 
 - be a Canadian citizen or a permanent resident of Canada OR
-  - enrolled in a Québec university for at least two (2) full-time semesters (or the equivalent) in the three (3) semesters prior to the competition deadline. The competition semester is excluded from the calculation of the 2 full-time sessions among the 3 sessions preceding the closing date of the competition OR 
+  - enrolled in a Québec university for at least two (2) full-time semesters (or the equivalent) in the three (3) semesters prior to the competition deadline. The competition semester is excluded from the calculation of the 2 full-time sessions among the 3 sessions preceding the closing date of the competition OR
   - have a health insurance card from the Régie d’assurance maladie du Québec (RAMQ) that is valid at the competition deadline or proof that an application for a health insurance card was filed with the RAMQ and that the card will be valid at the competition deadline. 
 
 See the FRQS [website](https://frq.gouv.qc.ca/en/program/formation-de-doctorat-2022-2023) for current information.
@@ -58,12 +58,13 @@ Duration:	36 months
 Tenure: Canadian institutions only  
 Application deadline: 
 
-- Through a Canadian institution: Contact your institution  
-- Directly to the agencies: October 17, 2022   
+- Through a Canadian institution: Contact your institution
+- Directly to the agencies: October 17, 2022  
 
 To be considered eligible for support, on the deadline date, you must:  
 
 - be a Canadian citizen, or a permanent resident of Canada;
 - hold, or expect to hold (at the time you take up the award), a degree in science or engineering from a university whose standing is acceptable to NSERC;
-- intend to pursue in the following year full-time graduate studies and research at the Master's or Doctoral level in one of the areas of the natural sciences or engineering supported by NSERC.
+- intend to pursue in the following year full-time graduate studies and research at the Master's or Doctoral level in one of the areas of the natural sciences or engineering supported by NSERC.  
+
 See the NSERC [website](https://www.nserc-crsng.gc.ca/OnlineServices-ServicesEnLigne/instructions/201/pgs-pdf_eng.asp) for current information.

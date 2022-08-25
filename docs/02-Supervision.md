@@ -24,7 +24,7 @@ Maintaining a mutually respectful and supportive relationship with your thesis s
 
 **Issues to Discuss:**  
 
-- Course plan: courses; credits by semester  
+- Course plan: courses; credits by semester
 - Thesis timeline: dates for protocol; completion
 - Thesis format: classic or manuscript based
 - Authorship: number of expected papers; content, journals; first, senior, co-authors, corresponding author; number of presentations, content, conference locations, costs
@@ -54,7 +54,7 @@ A Supervisor will:
 - meet, or otherwise communicate, with you at least once a month;
 - provide timely feedback;
 - monitor deadlines;
-- be aware of, and co-ordinate (and resolve any conflicts in) any advice received by - you when you meeting separately with other members of Supervisory Committee or with - other consultants
+- be aware of, and coordinate (and resolve any conflicts in) any advice received by you when you meeting separately with other members of Supervisory Committee or with other consultants
 - hold once-a-semester meeting of full Supervisory Committee;
 - when thesis is nearing completion, submit names of possible examiners to Department;
 - ensure that corrections/suggestions by examiners are carried out.
@@ -63,7 +63,7 @@ A Supervisor will:
 Thesis Committee Members will:
 
 - be a consultant to you and your supervisor;
-- evaluate (with other members of thesis committee) and when satisfied, formally - approve your research protocol;
+- evaluate (with other members of thesis committee) and when satisfied, formally approve your research protocol;
 - attend once-a-semester meeting of your full thesis committee and take active part in assessing progress and setting goals for you.
 
 ### Expectations for you

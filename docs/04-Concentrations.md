@@ -5,6 +5,7 @@ There are presently 3 options for Epidemiology PhD students that wish to pursue 
 This option will provide enhanced training in global health to graduate students registered in the PhD in Epidemiology; Global Health degree program at McGill. Students will become familiar with topics of global health relevance and incorporate this into their core coursework and thesis research. The thesis must be relevant to global health and approved by the Global Health Coordinating Committee. Contextualizing the core training students receive in epidemiology and in their respective substantive discipline within the global health research domain will enhance their academic experience. Graduates of this option will be prepared to pursue further training in global health or to undertake a variety of career opportunities in global health in Canada or internationally. The PhD thesis must be relevant to global health and approved by the Global Health Coordinating Committee.
 
 **Required Courses (22 credits)**  
+
 *Option-specific courses are italicized*
 
 - *EPIB 681 Global Health: Epidemiologic Research (3 Credits)*
@@ -38,7 +39,8 @@ Please contact the Global Health Option Advisor [Madhu Pai](mailto:madhukar.pai@
 ## Pharmacoepidemiology Option
 This program provides in-depth training for graduate students on pharmacoepidemiologic methods and the application of these methods to study the population effects (benefits and harms) of pharmaceutical products. Students will acquire the skills to become independent investigators and conduct original research in pharmacoepidemiology. Career opportunities for graduates are multiple and include work in industry, government, or academia. Students will be required to participate in the Pharmacoepidemiology Journal Club. Research topics must be related to pharmacoepidemiology and approved by the program coordinating committee.
 
-**Required Courses (25 credits)**  
+**Required Courses (25 credits)**    
+
 *Option-specific courses are italicized*
 
 - *EPIB 639 Pharmacoepidemiologic Methods (4 Credits)*
@@ -69,6 +71,7 @@ Thus, in addition to the rigorous training provided in the Department of EBOH, g
 With interdisciplinary research being increasingly important to understanding complex social and biological processes, CPD student trainees benefit from both a strong disciplinary foundation from their departmental affiliations, as well as from the sharing of knowledge across disciplinary boundaries through CPD activities.
 
 **Required Courses (22 credits)**  
+
 *Option-specific courses are italicized*
 
 - EPIB 701 PhD Comprehensive Examination

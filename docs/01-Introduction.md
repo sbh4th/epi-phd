@@ -10,17 +10,17 @@ Epidemiology is the study and analysis of the patterns and causes of disease in 
 *Program Director*    
 Sam Harper (sam.harper@mcgill.ca)  
 Phone: 514-398-2356  
-Office: 2001 McGill College, Suite 1262  
+Office: 2001 McGill College, Suite 1262
 
 *Program Advisor*  
 Kris Filion (kristian.filion@mcgill.ca)  
 Phone: 514-340-8222 x 28394  
-Office: Centre for Clinical Epidemiology, Jewish General Hospital – Lady Davis Institute  
+Office: Centre for Clinical Epidemiology, Jewish General Hospital (Lady Davis Institute)
 
 *Student Affairs Officer*  
 André Yves Gagnon (gradadmin.eboh@mcgill.ca)  
 Phone: 514-398-1812  
-Office: 2001 McGill College, Suite 1253  
+Office: 2001 McGill College, Suite 1253
 
 *Administrative Student Affairs Coordinator*  
 Katherine Hayden (gradcoord2.eboh@mcgill.ca)    
@@ -52,4 +52,4 @@ The timeline for program completion varies depending on each student's circumsta
 ## Example Timeline and Milestones
 Below we show a very general example of a timeline for completing all of the required coursework and other milestones, as well as some reporting requirements. 
 
-<img src="01-Introduction_files/figure-html/plan-1.png" width="672" />
+![](01-Introduction_files/figure-latex/plan-1.pdf)<!-- --> 

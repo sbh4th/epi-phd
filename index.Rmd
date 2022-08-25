@@ -3,14 +3,14 @@ title: "![](mcgill-epi-logo.png){width=600px} <br><br> PhD Handbook <br> 2022-20
 author: "PhD Program Leadership"
 date: "`r Sys.Date()`"
 output:
+  bookdown::pdf_book:
+    keep_tex: yes
   bookdown::gitbook:
     lib_dir: assets
     split_by: chapter
     config:
       toolbar:
         position: static
-  bookdown::pdf_book:
-    keep_tex: yes
   bookdown::html_book:
     css: toc.css
   pdf_document: 
