@@ -1,0 +1,283 @@
+---
+title: "PhD Orientation 2023-24"
+subtitle:   
+author: "28 Aug 2023"
+institute: "Program Leadership"
+date: "  "
+output: 
+  xaringan::moon_reader:
+    lib_dir: libs
+    seal: true
+    css: [xaringan-themer.css, style.css]
+    nature:
+      beforeInit: "macros.js"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      titleSlideClass: [middle, left]
+
+---
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(here)
+library(DiagrammeR)
+library(kableExtra)
+library(xaringan)
+library(leaflet)
+library(emojifont)
+library(plan)
+library(Hmisc)
+library(ggplot2)
+library(emo)
+
+```
+
+```{r xaringan-themer, include=FALSE}
+library(xaringanthemer)
+style_xaringan(text_color = "#000000", header_color = "#737373", text_font_size = "24px",  text_font_family = "'Lucida Sans'", header_font_google = google_font("Source Sans Pro"), header_font_weight="lighter", title_slide_background_color =  "#ffffff", title_slide_text_color = "#000000", link_color = "#0000ee", footnote_font_size = "0.5em")
+```
+
+# High-Level Program Overview
+## 4 key milestones to the PhD: 
+.right-column[
+### .orange[1) Required coursework;]  
+### .orange[2) Passing a comprehensive exam;]  
+### .orange[3) Developing and defending a thesis protocol; and]  
+### .orange[4) Writing and defending the doctoral thesis.]  
+]
+
+---
+```{r plan, echo=FALSE, include=FALSE, out.width=800}
+library("plan")
+g <- new("gantt")
+g <- ganttAddTask(g, "Courses") # no times, so a heading
+g <- ganttAddTask(g, "Epi Methods I", "2023-09-01", "2023-12-15")
+g <- ganttAddTask(g, "Study Design", "2023-09-01", "2023-12-15")
+g <- ganttAddTask(g, "Epi Methods II", "2024-01-01", "2024-04-15")
+g <- ganttAddTask(g, "PhD Seminar", "2024-01-01", "2024-04-15")
+g <- ganttAddTask(g, "Comprehensive Exam", "2024-06-01", "2024-06-08")
+g <- ganttAddTask(g, "Thesis Protocol", "2024-09-01", "2025-04-15")
+g <- ganttAddTask(g, "BIOS Electives", "2024-09-01", "2025-04-15")
+g <- ganttAddTask(g, "EPIB Electives", "2024-09-01", "2025-04-15")
+g <- ganttAddTask(g, " ", start=NA, end=NA)
+g <- ganttAddTask(g, "Research") # no times, so a heading
+g <- ganttAddTask(g, "Literature review", "2023-09-01", "2025-04-15")
+g <- ganttAddTask(g, "Supervisor nomination", "2024-05-15", "2024-05-29")
+g <- ganttAddTask(g, "Tracking form", "2025-05-15", "2025-05-29")
+g <- ganttAddTask(g, "Defend thesis proposal", "2025-01-01", "2025-04-15")
+g <- ganttAddTask(g, "Thesis work", "2025-04-15", "2027-04-15")
+g <- ganttAddTask(g, "Tracking form", "2026-05-15", "2026-05-29")
+g <- ganttAddTask(g, "Teaching assistantship", "2026-09-01", "2026-12-15")
+g <- ganttAddTask(g, "Tracking form", "2027-05-15", "2027-05-29")
+g <- ganttAddTask(g, "Defend thesis", "2027-06-01", "2027-06-15")
+g <- ganttAddTask(g, " ", start=NA, end=NA)
+font <- ifelse(is.na(g[["start"]]), 2, 1)
+plot(g, ylabel=list(font=font),
+     event.time="2023-09-01", event.label="2023-2024 Cohort\n")
+```
+
+![:scale 80%](/Users/samharper/Dropbox/work/service/administrative/PhDEpi/thesis-workshop/timeline-2023.png )
+
+---
+class: center, middle
+
+# Virtually Everything You Need to Know is Here*
+
+## `r emo::ji("point_down")`
+https://www.mcgill.ca/epi-biostat-occh/academic-programs/grad/epidemiology
+
+I have tried to summarize it all here:
+https://www.samharper.org/phd-handbook
+
+*When in doubt, ask Katherine or André-Yves
+
+---
+.left-column[
+```{r, echo=F, out.height="100%", out.width="100%"}
+ggplot() + geom_fontawesome("fa-handshake-o", color='steelblue') + theme_void()
+```
+]
+
+.right-column[
+## Supervision
+- Thesis students are expected to identify a supervisor by no later than 15 February of their first year of study.
+
+- Contact the professors doing research that you find interesting (we can help).
+
+## Requirements
+- Must be an EBOH faculty member with supervisory privileges.
+
+- Supervisor Nomination Form and Letter of Understanding due May 15, 2023
+]
+
+---
+# Issues to discuss with your supervisor
+.pull-left[
+### More academic
+- Course plan  by semester  
+- Thesis timeline: dates for protocol; completion
+- Authorship: expected papers; content, journals; conferences
+- Thesis project: possible topics
+- Members of supervisory committee
+- Committee meetings: number and timing
+]
+
+.pull-right[
+### Less academic
+- Funding: personal, projects
+- Ethics approval: timing
+- Office hours: hours, open door
+- Absences: sabbatical; holidays; conferences
+- Work-life balance
+- "Lab" rules and ways of working
+]
+
+---
+# Funding
+- EBOH 'guarantees' funding for 4 years, but note the package may be comprised of:
+>Departmental stipend, research assistantships, teaching assistantships, and/or supervisory stipends. The combination may change from year to year. 
+
+- Also subject to academic performance, participation in seminars, and a commitment to apply for award for which you are eligible. **Talk to your supervisor.**
+
+- Some sources:
+  - CIHR (October 17)
+  - FRQS (October 5)
+  - NSERC (October 17)
+  - SSHRC (October 17)
+  - McGill internal studentships (April 15)
+  - TAships (required, once)
+  - RAships (12 hrs/week *max*)
+
+---
+# Conflicts
+.footnote[See www.mcgill.ca/students/srr/disputes for further information.]
+.pull-left[
+- ### This is a long and sometimes frustrating process
+- ### Conflicts may arise. 
+]
+
+.pull-right[
+### What to do?
+Situations will vary, but generally this order:
+- speak to your supervisor
+- speak to your degree Program Advisor
+- speak to your Graduate Studies Director
+- speak to your Department Chair
+- speak to the Ombudsperson
+- speak to the Associate Dean (Graduate Studies)
+]
+
+---
+# Coursework
+.footnote[*EPIB 701 and 702 are not didactic courses but are required milestones for advancing toward degree completion]
+.pull-left[
+### Required Courses (16 credits)
+- 701 PhD Comprehensive Exam*
+- 702 PhD Proposal*
+- 703 Study Design (2 Credits)
+- 704 Epi Methods 1 (4 Credits)
+- 705 Epi Methods 2 (4 Credits)
+- 706 Doctoral Seminar (3 Credits)
+- 707 Research Design (3 Credits)
+]
+
+.pull-right[
+### Elective Courses (9 credits)
+- 500 level or higher
+
+- Minimum of 3 credits in Biostatistics
+- 6 credits in an epidemiologic and/or substantive topic (normally related to the thesis topic).
+- List of electives [here](https://www.mcgill.ca/epi-biostat-occh/academic-programs/grad/epidemiology/phd-course-requirements/phd-epidemiology-electives-guidelines)
+]
+
+---
+## Concentrations (added coursework, noted on degree)
+.right-column[
+### Global Health 
+#### Topics of global health relevance incorporated into their core coursework and thesis research (ask Dr. Pai)
+### Population Dynamics
+#### Interdisciplinary social science work in demography, sociology, economics (ask Dr. Quesnel-Valee)
+### Pharmacoepidemiology 
+#### Methods to study the population effects (benefits and harms) of pharmaceutical products (ask Dr. Platt)
+]
+
+---
+# Comprehensive Exam
+.left-column[
+```{r, echo=F, out.height="100%", out.width="100%"}
+ggplot() + geom_fontawesome("fa-pencil", color='steelblue') + theme_void()
+```
+]
+
+.right-column[
+- Normally taken within 12 to 24 months after entry into the PhD degree program.
+
+- The Comprehensive Exam is held once a year in June. 
+- Two part exam:
+  1. Epidemiologic and Biostatistical methods (based on 2 published papers)
+  2. Study design
+
+- Pass/Fail: Students must pass *both* with 65%. A "Fail" on either (or both) must repeat the exam the following year.
+]
+
+---
+# Thesis Protocol
+.left-column[
+```{r, echo=F, out.height="100%", out.width="100%"}
+ggplot() + geom_fontawesome("fa-rocket", color='steelblue') + theme_void()
+```
+]
+.right-column[
+- Propose and defend a comprehensive research project and to convince their peers of its scientific merit and originality.
+
+- Provide sufficient background and detail on data sources; research design, statistical analyses, and power/precision/sample size (as applicable) for each of the research objectives; and study limitations.
+
+- Reviewed by 2 faculty and an external reviewer.
+
+- May require substantial revisions or resubmission.
+]
+
+---
+# Doctoral Thesis
+.left-column[
+```{r, echo=F, out.height="100%", out.width="100%"}
+ggplot() + geom_fontawesome("fa-file", color='steelblue') + theme_void()
+```
+]
+
+.right-column[
+- "Officially" after passing the comprehensive exam and defending the thesis protocol. 
+
+- Must constitute original scholarship and must be a distinct contribution to knowledge.
+
+- Thesis committee should reflect the intellectual requirements needed to support your work.  
+  - Minimum of 1 additional member (often a Biostatistician)
+  - More usually better, especially for substantive, clinical, or methodological expertise and support.
+]
+---
+# PhD Defense
+.left-column[
+```{r, echo=F, out.height="100%", out.width="100%"}
+ggplot() + geom_fontawesome("fa-graduation-cap", color='steelblue') + theme_void()
+```
+]
+
+.right-column[
+### External evaluation
+#### "Independent" evaluation by someone with expertise in the substantive area of the thesis.
+
+### Oral defense committee:
+#### 5 voting members: Dept Chair, Supervisor, Internal Examiner, Internal Member, and External Member.
+
+### See GPS for “official” guidelines
+]
+
+---
+background-image: url(mcgill-university.jpg)
+background-size: contain
+class: center, middle
+## .white[Good Luck!]
+## .white[We are here to help anytime]
+<img src="mcgill-logo-transparent.png" style="width: 15%" />
+
